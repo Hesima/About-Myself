@@ -7,6 +7,6 @@ Reliable student seeking a role which embodies Leadership and Commitment. To be 
 # ACADEMIC QUALIFICATION:
 |CLASS/DEGREE|NAME OF THE INSTITUTE|BOARD OF STUDY|YEAR OF PASSING|PERCENTAGE/CGPA|
 |------------|---------------------|--------------|---------------|---------------|
-|B.Tech<br/>(Information Technology)|Velammal College of Engineering and Technology, Madurai.|Anna University Chennai|2020|7.63<br/>(Up to Semester 6)|
+|B.Tech<br/>(Information Technology)|Velammal College of Engineering and Technology,<br/> Madurai.|Anna University Chennai|2020|7.63<br/>(Up to Semester 6)|
 |HSC|National Matriculation Higher Secondary School,<br/> Rameswaram.|State Board|2016|88.41|
 |SSLC|St.Joseph's Higher Secondary School, <br/>Rameswaram.|State Board|2014|96|
