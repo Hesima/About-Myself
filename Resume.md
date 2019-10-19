@@ -36,11 +36,11 @@ A Small Scale Application to reserve the tickets through internet.
 - Regularity
 # PERSONAL DETAILS:
 Fathers Name       : M.Christhu Raj
-Date of Birth      : 07-09-1998
-Languages known    : Tamil, English
-Hobbies            : Indoor Sports
-Residential Address: 6/299 Vercodu, Rameswaram-623526.
+<br/>Date of Birth      : 07-09-1998
+<br/>Languages known    : Tamil, English
+<br/>Hobbies            : Indoor Sports
+<br/>Residential Address: 6/299 Vercodu, Rameswaram-623526.
 
 
 DATE :
-PLACE:
+<br/>PLACE:
