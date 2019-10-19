@@ -11,6 +11,6 @@ Reliable student seeking a role which embodies Leadership and Commitment. To be 
 |HSC|National Matriculation Higher Secondary School,<br/> Rameswaram.|State Board|2016|88.41|
 |SSLC|St.Joseph's Higher Secondary School, <br/>Rameswaram.|State Board|2014|96|
 # TECHNICAL QUALIFICATION:
-- "C" Programming
+  - "C" Programming
 # AREA OF INTEREST:
-- Database Management System
+  - Database Management System
