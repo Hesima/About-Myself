@@ -7,3 +7,5 @@ Reliable student seeking a role which embodies Leadership and Commitment. To be 
 # ACADEMIC QUALIFICATION:
 |CLASS/DEGREE|NAME OF THE INSTITUTE|BOARD OF STUDY|YEAR OF PASSING|PERCENTAGE/CGPA|
 |------------|---------------------|--------------|---------------|---------------|
+|B.Tech(Information Technology)|Velammal College of Engineering and Technology|Anna University Chennai|2020|7.63(Up to Semester 6)|
+|------------------------------|----------------------------------------------|-----------------------|----|----------------------|
