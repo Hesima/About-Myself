@@ -6,4 +6,4 @@ Mobile: +91 9384333087
 Reliable student seeking a role which embodies Leadership and Commitment. To be a part of an organization where I could use and enhance my knowledge and talent for the development of both the organization and myself.
 # ACADEMIC QUALIFICATION:
 |CLASS/DEGREE|NAME OF THE INSTITUTE|BOARD OF STUDY|YEAR OF PASSING|PERCENTAGE/CGPA|
------------------------------------------------------------------------------------
+|------------|---------------------|--------------|---------------|---------------|
