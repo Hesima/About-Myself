@@ -15,7 +15,7 @@ Reliable student seeking a role which embodies Leadership and Commitment. To be 
 # AREA OF INTEREST:
   - Database Management System
 # CO-CURRICULAR ACTIVITIES:
-- Participated in the ``` -**"VORTEX 2019"**``` conducted by National Institute of Technology Trichy on 1 February,2019.
+- Participated in the```diff- **"VORTEX 2019"**``` conducted by National Institute of Technology Trichy on 1 February,2019.
 - Participated in the **“TCS Code Vita”**, an online coding contest.
 -	Participated in the **“SMART INDIA HACKATHON”** in the month of May,2018.
 # WORKSHOPS:
@@ -25,11 +25,11 @@ Reliable student seeking a role which embodies Leadership and Commitment. To be 
 - Attended *“GAME  DEVELOPMENT”* Workshop conducted by National Institute of Technology, Trichy from 1st to 3rd February 2019.
 # PROJECT:
 - TITLE:
-Online Reservation System
+*Online Reservation System*
 - DESCRIPTION:
 A Small Scale Application to reserve the tickets through internet.
 # EXTRA CURRICULAR ACTIVITIES:
--	Member of ECO CLUB during 2016-2017 at Velammal College of Engineering and Technology.
+-	Member of **ECO CLUB** during 2016-2017 at Velammal College of Engineering and Technology.
 # PERSONALITY TRAITS:
 - Team Leadership
 - Self -Motivated
