@@ -19,8 +19,8 @@ Reliable student seeking a role which embodies Leadership and Commitment. To be 
 - Participated in the “TCS Code Vita”, an online coding contest.
 -	Participated in the “SMART INDIA HACKATHON” in the month of May,2018.
 # WORKSHOPS:
--	Attended “MOBILE APPLICATION DEVELOPMENT” Workshop conducted by Velammal College of Engineering and Technology, Madurai from 4th to 6th December 2017.
-- Attended “WEB DEVELOPMENT” Workshop conducted by National Institute of Technology, Trichy from 2nd to 4th February 2018.
+-	Attended *“MOBILE APPLICATION DEVELOPMENT”* Workshop conducted by Velammal College of Engineering and Technology, Madurai from 4th to 6th December 2017.
+- Attended *“WEB DEVELOPMENT”* Workshop conducted by National Institute of Technology, Trichy from 2nd to 4th February 2018.
 - Attended “JAVA” Workshop conducted by Velammal College of Engineering and Technology, Madurai from 19th and 28th June 2018.
 - Attended “GAME  DEVELOPMENT” Workshop conducted by National Institute of Technology, Trichy from 1st to 3rd February 2019.
 # PROJECT:
