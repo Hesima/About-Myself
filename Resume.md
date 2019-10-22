@@ -40,7 +40,7 @@ Fathers Name  &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; : M.Christhu Raj
 <br/>Date of Birth  &nbsp;  &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; : 07-09-1998
 <br/>Languages known  &nbsp;&nbsp;&nbsp;   : Tamil, English
 <br/>Hobbies       &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;   : Indoor Sports
-<br/>Residential Address &nbsp;  &nbsp; : 6/299 Vercodu, Rameswaram-623526.
+<br/>Residential Address &nbsp;   : 6/299 Vercodu, Rameswaram-623526.
 
 
 DATE :
