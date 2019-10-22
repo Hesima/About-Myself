@@ -17,7 +17,7 @@ Reliable student seeking a role which embodies Leadership and Commitment. To be 
   - Database Management System
 # CO-CURRICULAR ACTIVITIES:
 - Participated in the **"VORTEX 2019"** conducted by National Institute of Technology Trichy on 1 February,2019.
-- Participated in the **“TCS Code Vita”**, an online coding contest.
+- Participated in the **“TCS Code Vita”**, an online coding contest on May 11,2018.
 -	Participated in the **“SMART INDIA HACKATHON”** in the month of May,2018.
 # WORKSHOPS:
 -	Attended *“MOBILE APPLICATION DEVELOPMENT”* Workshop conducted by Velammal College of Engineering and Technology, Madurai from 4th to 6th December 2017.
