@@ -42,7 +42,4 @@ Fathers Name  &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; : M.Christhu Raj
 <br/>Hobbies       &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;   : Indoor Sports
 <br/>Residential Address &nbsp;   : 6/299 Vercodu, Rameswaram-623526.
 
-
-DATE :
-<br/>PLACE:
-<br/>Signature of the Candidate: Hesima C                                                                                      
+                                                                                   
